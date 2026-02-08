@@ -1,0 +1,18 @@
+{
+  "drive_folder": "/content/drive/MyDrive/KWIC-notebook",
+  "drive_file": "01-three-men-in-a-boat.txt",
+  "query_text": "k*n*s",
+  "search_mode": "wildcard_one",
+  "context_window": 7,
+  "max_show": 100,
+  "verbose_logs": true,
+  "normalize_text": true,
+  "save_csv": true,
+  "stop_after": 0,
+  "txt_split_mode": "file",
+  "csv_delimiter": ",",
+  "csv_content_column": "quote",
+  "csv_id_column": "",
+  "encoding_choice": "auto",
+  "updated_at": "2025-12-21T16:50:09"
+}

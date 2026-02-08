@@ -1,0 +1,29 @@
+# Python / Jupyter Notebook
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Microsoft Office temporary files (only temp files, not the actual docs)
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+
+# Settings file is tracked to provide default settings for new users
+# Note: kwic_last_settings.json is included to prevent "file not found" errors
+
+# Optional: Uncomment if you don't want to track sample data files
+# *.txt
+# *.csv
+# *.json
+
+# Results folder is tracked to provide example outputs for users
+# If you want to exclude it in the future, uncomment the line below:
+# results/
